@@ -1,2 +1,2 @@
-# Iwds-Webservics
+# Iwds-Webservices
 Java based web services
